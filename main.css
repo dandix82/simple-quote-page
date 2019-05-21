@@ -21,3 +21,18 @@ body {
   text-align: center;
 }
 
+.quote {
+  font-family: 'Julius Sans One', sans-serif;
+  font-size: 2.5rem; 
+}
+
+.author {
+  font-family: 'Crimson Text', serif;
+  font-size: 1.5rem;
+  font-style: italic;
+}
+
+body {
+    display: block;
+    margin: 8px;
+}
